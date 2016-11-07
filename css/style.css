@@ -381,10 +381,10 @@ h1 span{
 .about-us p.title{
   color: #a4a4a4;
   margin:40px auto;
-  width:300px;
+  width:auto;
   line-height:26px;
   letter-spacing:0;
-  font-size:14px;
+  font-size:24px;
   font-weight:300;
   text-align:center;
 }
@@ -426,7 +426,8 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/responsive.png) white no-repeat center center;
+  background: url(../img/icons/java.png) white no-repeat center center;
+  justify-content:space-around;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -457,7 +458,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/minimalist.png) white no-repeat center center;
+  background: url(../img/icons/sql.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
@@ -488,7 +489,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:2px solid #f0f0f0;
-  background: url(../img/icons/free.png) white no-repeat center center;
+  background: url(../img/icons/angularjs.png) white no-repeat center center;
   -moz-border-radius:100px;
   -webkit-border-radius:100px;
   border-radius: 100px;
