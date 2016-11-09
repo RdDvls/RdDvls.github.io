@@ -754,6 +754,7 @@ h1 span{
 }
 
 .imgcontainer {
+    content: fill;
     display: flex;
     justify-content: center;
 }
